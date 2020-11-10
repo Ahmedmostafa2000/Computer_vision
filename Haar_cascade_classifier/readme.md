@@ -1,6 +1,7 @@
 # 1. Haar detection using realtime video capture
  libraries necessary:
  - opencv
+ - numpy
 This script uses Haar face detection  
 https://streamable.com/itmbxn  
 
