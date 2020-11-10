@@ -1,7 +1,6 @@
 #importing libraries
 import cv2
 import numpy as np
-from matplotlib import pyplot as plt
 
 
 face_detector = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
