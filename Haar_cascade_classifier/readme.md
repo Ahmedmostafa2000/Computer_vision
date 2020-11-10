@@ -2,7 +2,8 @@
  libraries necessary:
  - opencv
 This script uses Haar face detection  
-https://streamable.com/itmbxn
+https://streamable.com/itmbxn  
+
 [![IMAGE ALT TEXT](./images/demo.jpg)](https://streamable.com/itmbxn)
 
 P.S:
