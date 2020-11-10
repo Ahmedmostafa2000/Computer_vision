@@ -1,7 +1,8 @@
 # 1. Haar detection using realtime video capture
  libraries necessary:
  - opencv
-This script uses Haar face detection
+This script uses Haar face detection  
+
 ![using the classifier on me in real time](./images/demo.jpg)
 
 
