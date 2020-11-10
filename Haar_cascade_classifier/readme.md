@@ -2,7 +2,7 @@
  libraries necessary:
  - opencv
 This script uses Haar face detection
-![using the classifier on me in real time](./pictures/image.png)
+![using the classifier on me in real time](./images/demo.jpg)
 
 
 P.S:
