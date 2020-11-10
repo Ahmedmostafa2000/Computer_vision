@@ -2,10 +2,8 @@
  libraries necessary:
  - opencv
 This script uses Haar face detection  
-
-![using the classifier on me in real time](./images/demo.jpg)
-
+https://streamable.com/itmbxn
+[![IMAGE ALT TEXT](./images/demo.jpg)](https://streamable.com/itmbxn)
 
 P.S:
 - an update to this readme will be uploaded in a week isa
-- the demo video will be uploaded in two days isa
