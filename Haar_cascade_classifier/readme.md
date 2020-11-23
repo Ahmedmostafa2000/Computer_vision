@@ -11,4 +11,4 @@ https://streamable.com/itmbxn
 [![algorithm](./images/demo.jpg)](https://streamable.com/itmbxn)
 
 P.S:
-- an update to this readme will be uploaded in a week isa
+- an update to this readme will be uploaded soon isa
