@@ -1,2 +1,2 @@
 # Computer_vision
-Some computer vision solutions using OpenCV and other methods
+Some computer vision solutions using OpenCV, MediaPipe and other methods
