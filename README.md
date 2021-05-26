@@ -5,5 +5,5 @@ Some computer vision solutions using OpenCV, MediaPipe and other methods
 
 
 <figure class="video_container">
-<iframe src="https://www.linkedin.com/posts/ahmad-mostafa-2bb023174_mediapipe-activity-6799160198259867648-NU-9" height="603" width="504" ></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6799160182543806464" height="603" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 </figure>
